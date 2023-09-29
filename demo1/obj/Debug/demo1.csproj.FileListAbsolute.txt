@@ -1,0 +1,12 @@
+C:\Users\khang\source\repos\demo1\demo1\bin\Debug\Database1.mdf
+C:\Users\khang\source\repos\demo1\demo1\bin\Debug\Database1_log.ldf
+C:\Users\khang\source\repos\demo1\demo1\bin\Debug\demo1.exe.config
+C:\Users\khang\source\repos\demo1\demo1\bin\Debug\demo1.exe
+C:\Users\khang\source\repos\demo1\demo1\bin\Debug\demo1.pdb
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.csproj.AssemblyReference.cache
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.Form1.resources
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.Properties.Resources.resources
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.csproj.GenerateResource.cache
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.exe
+C:\Users\khang\source\repos\demo1\demo1\obj\Debug\demo1.pdb
